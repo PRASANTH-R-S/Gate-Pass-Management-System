@@ -6,7 +6,7 @@ A web-based Gate Pass Management System developed specifically for hostel studen
 
 ## 📌 Project Overview
 
-The Hostel Student Gate Pass Management System is designed to simplify and digitize the process of managing student movement in and out of a hostel.
+The Gate Pass Management System is designed to simplify and digitize the process of managing student movement in and out of a hostel.
 
 The system provides a centralized platform where hostel students can submit gate-pass requests, while authorized hostel staff can review, approve, or reject those requests.
 
