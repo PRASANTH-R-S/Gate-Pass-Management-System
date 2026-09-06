@@ -1,4 +1,4 @@
-# 🎫 Hostel Student Gate Pass Management System
+# Gate Pass Management System
 
 A web-based Gate Pass Management System developed specifically for hostel students to digitally request, manage, approve, and track their gate passes.
 
@@ -32,7 +32,7 @@ By replacing the traditional manual gate-pass process with a digital workflow, t
 
 ## 👥 User Roles
 
-### 👨‍🎓 Hostel Student
+### 👨‍🎓 Student
 
 Students can:
 
